@@ -43,8 +43,8 @@
 #define SUBMENU_NAME_ESP_CT_ALPHA   "ct alpha"
 #define SUBMENU_NAME_ESP_CT_WEIGHT  "ct weight"	
 #define SUBMENU_NAME_ESP_BARREL     "barrel"	
-#define SUBMENU_NAME_ESP_GLOW		"glow"
-#define SUBMENU_NAME_ESP_SOUND		"sound"
+#define SUBMENU_NAME_ESP_GLOW       "glow"
+#define SUBMENU_NAME_ESP_SOUND      "sound"
 #define SUBMENU_VALUE_ESP_ESP       1
 #define SUBMENU_VALUE_ESP_T_RED     255
 #define SUBMENU_VALUE_ESP_T_GREEN   0

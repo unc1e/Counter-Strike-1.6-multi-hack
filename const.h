@@ -1,6 +1,6 @@
 #pragma once
 
-#define M_PI 3.141592653f
+#define M_PI         3.141592653f
 #define MAX_PLAYERS  32
 #define ASPECT_RATIO 0.5f
 
@@ -11,7 +11,7 @@
 #define SOUNDOBJ_ALPHA  255
 #define SOUNDOBJ_WEIGHT 2.f
 
-#define HEAD_OFFSET  25
+#define HEAD_OFFSET 25
 
 #define BONE_OFFSET 5
 
